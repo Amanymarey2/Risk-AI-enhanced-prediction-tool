@@ -14,7 +14,7 @@ It showcases:
 - Synthetic historical data generation
 - Machine learning for risk escalation prediction
 - Generative AI for automatic mitigation suggestions
-- Interactive visualization dashboard (Plotly Dash)
+- Interactive visualization dashboard (Plotly Dash) 
 
 The main message:  
 **Modern data & AI techniques can significantly improve project management tasks** — especially in high-stakes health sector initiatives.
@@ -65,6 +65,8 @@ The main message:
 5. **Interactive Dashboard**  
    - Plotly Dash web application  
    - Risk heat map, word cloud of AI mitigations, top words bar chart, KPIs, filtered table
+
+Dashboard can be accessed from: https://c97adaa2-b827-4a32-ac7d-a7faec385ac2.plotly.app/
 
 ## Setup & Usage
 
