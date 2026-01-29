@@ -8,3 +8,5 @@ dash
 plotly
 wordcloud
 pillow
+voila
+jupyter
