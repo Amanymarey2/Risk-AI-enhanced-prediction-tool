@@ -1,0 +1,10 @@
+# requirements.txt content 
+pandas
+numpy
+scikit-learn
+joblib
+openai
+dash
+plotly
+wordcloud
+pillow
